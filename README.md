@@ -4,9 +4,9 @@
 
 Welcome to the Quiz Application, a **Kotlin-only Android app**  that provides a **solid foundation** for creating engaging **quizzes on the Android platform**.
 
-### Contributer 🤝
+### Developers 🤝
 
-|  Contributer | Social Media |
+|  Developers | Social Media |
 | --- | --- | 
 | **`Srushti Hemnani`** | [**GitHub**](https://github.com/SrushtiHemnani),   [**LinkedIn**](https://www.linkedin.com/in/srushti-hemnani/) |
 | **`Mohammad Aftab`**  | [**GitHub**](https://github.com/Aftab7620),   [**LinkedIn**](https://www.linkedin.com/in/mohammad-aftab-726954215/) |
